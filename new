@@ -1,0 +1,22 @@
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+		{{title}}
+	</title>
+</head>
+
+<body>
+	<div id="app">
+		<h1>
+			Hello world! This is Jack.
+		</h1>
+		<p>
+			{{message}}
+		</p>
+		<p>
+			message2: {{message2}}
+		</p>
+ 	</div>
+</body>
